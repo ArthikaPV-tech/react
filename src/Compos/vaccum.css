@@ -1,0 +1,18 @@
+.vsave{
+    background-color: #0066cc;
+   padding: 5px;
+   color:white;
+   max-width: 300px;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+
+}
+.boxer{
+    background-color:#0066cc;
+    color:black;
+    max-width: 12000px;
+   padding-left:60px;
+   font-size: 17px;
+   padding-bottom: 20px;
+}

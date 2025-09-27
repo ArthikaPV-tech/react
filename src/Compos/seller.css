@@ -1,0 +1,80 @@
+.best{
+text-align: left;
+color:white;
+margin-top:-350px;
+}
+
+.image{
+    margin-top: -20px !important;
+}
+.shopall{
+    background-color: black;
+    color:white;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-top:70px;
+    margin-left:700px;
+}
+.save{
+   margin-right:900px;
+   background-color: #0066cc;
+   padding: 5px;
+   color:white;
+   margin-top: 20px !important;
+}
+.a{
+    text-align: left;
+}
+.a1{
+    color:#666;
+   
+}
+.save{
+    margin-top:100px !important;;
+   
+}
+.money{
+color: #0066cc;
+line-height: 1.8;
+}
+.save1{
+  margin-top:-38px !important;;
+   background-color: #0066cc;
+   padding: 5px;
+   color:white;
+}
+.save2{
+    margin-right:900px;
+     margin-top:30px !important;
+   background-color: #0066cc;
+   padding: 5px;
+   color:white;
+}
+.save3{
+   margin-top:-20px !important;
+   background-color: #0066cc;
+   padding: 5px;
+   color:white;
+}
+.carts,.cart1{
+font-size: 30px;
+color:white;
+margin-left: 30px;
+}
+.brand{
+    font-size: 42px;
+    font-weight: bold;
+    color:white;
+    margin-left: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+   
+}
+.r{
+    font-size: 22px;
+    color:#333;
+    margin-right: 250px;
+     margin-top: 23px;
+}
+

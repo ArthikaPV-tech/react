@@ -1,0 +1,38 @@
+.intro{
+   background-color: black;
+   color:white !important;
+   
+}
+.d{
+    background-color: black;
+    border:none;
+}
+.b{
+  font-size: 30px;
+  font-family: sans-serif;
+  margin-left:300px;
+ font-weight: bolder;
+}
+.r{font-size: 18px;
+  font-family: sans-serif;
+  margin-right:200px;
+   
+}
+.pay{
+  margin-left:400px;
+}
+.hd {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+  background-color: black;
+ padding-bottom:10px;
+ margin-top:-20px;
+font-size: 18px;
+
+}
+
+.hd a , .r a{
+  color: white;
+  text-decoration: none;
+}
