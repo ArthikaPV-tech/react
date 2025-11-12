@@ -41,7 +41,7 @@ function App() {
       <Router>
         <nav className="navbar navbar-inverse">
           <div className="container-fluid">
-            {/* 🔹 Brand + Hamburger Icon */}
+          
             <div className="navbar-header">
               <button
                 type="button"
@@ -55,8 +55,6 @@ function App() {
               </button>
               
             </div>
-
-            {/* 🔹 Main Navigation Links */}
             <div className="collapse navbar-collapse" id="mainNavbar">
               <ul className="nav navbar-nav">
                <li className="pay"><Link to="/" className="dropdown-toggle">Paydeal</Link></li>
@@ -87,7 +85,6 @@ function App() {
                   </div>
                 </li>
 
-                {/* Hair Care */}
                 <li className="dropdown">
                   <Link to="/hair" className="dropdown-toggle" data-toggle="dropdown">
                     Hair Care <span className="caret"></span>
@@ -108,7 +105,7 @@ function App() {
                   </div>
                 </li>
 
-                {/* Air Purifiers */}
+            
                 <li className="dropdown">
                   <Link to="/air" className="dropdown-toggle" data-toggle="dropdown">
                     Air Purifiers <span className="caret"></span>
@@ -129,7 +126,7 @@ function App() {
                   </div>
                 </li>
 
-                {/* Simple Links */}
+          
                 <li>
                   <Link to="/hp">Headphones</Link>
                 </li>
@@ -140,8 +137,6 @@ function App() {
             </div>
           </div>
         </nav>
-
-        {/* 🔹 Routes */}
         <Routes>
           <Route exact path="/" element={<Paydeal />} />
           <Route path="/vaccum" element={<Vaccum />} />
@@ -156,5 +151,6 @@ function App() {
   );
  
 }
+
 
 export default App;
